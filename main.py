@@ -7,8 +7,8 @@ from aiogram.enums import ParseMode
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # === НАСТРОЙКИ ===
-TOKEN = "ТОКЕН_ТВОЕГО_БОТА"
-IMAGE_URL = "https://via.placeholder.com/500x300.png?text=GiftKeeperOTC"  # плейсхолдер
+TOKEN = "8481984389:AAHX9_fXrgemHmPeHNuX7pd2xJ1ooDkYgp4"
+IMAGE_URL = "https://imgur.com/a/A8aIr3k"  # плейсхолдер
 WELCOME_TEXT = (
     "Добро пожаловать в GiftKeeperOTC – надежный P2P-гарант\n\n"
     "💼 Покупайте и продавайте всё, что угодно – безопасно!\n"
@@ -140,3 +140,4 @@ async def main():
 
 if name == "__main__":
     asyncio.run(main())
+
